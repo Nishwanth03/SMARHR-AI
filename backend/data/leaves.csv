@@ -1,0 +1,27 @@
+employee_id,leave_type,balance
+EMP001,Casual Leave,5
+EMP002,Casual Leave,4
+EMP003,Casual Leave,2
+EMP004,Casual Leave,6
+EMP005,Casual Leave,1
+EMP006,Casual Leave,3
+EMP007,Casual Leave,5
+EMP008,Casual Leave,4
+EMP009,Casual Leave,2
+EMP010,Casual Leave,5
+EMP011,Sick Leave,6
+EMP012,Sick Leave,5
+EMP013,Sick Leave,2
+EMP014,Sick Leave,7
+EMP015,Sick Leave,3
+EMP016,Sick Leave,5
+EMP017,Sick Leave,6
+EMP018,Sick Leave,1
+EMP019,Sick Leave,4
+EMP020,Sick Leave,5
+MGR001,Casual Leave,8
+MGR001,Sick Leave,10
+MGR002,Casual Leave,7
+MGR003,Casual Leave,9
+MGR004,Casual Leave,6
+HR001,Casual Leave,10

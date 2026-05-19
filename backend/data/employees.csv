@@ -1,0 +1,26 @@
+employee_id,name,email,department,designation,role,manager_id
+EMP001,Aarav Sharma,aarav@company.com,IT,Developer,employee,MGR001
+EMP002,Diya Patel,diya@company.com,IT,Developer,employee,MGR001
+EMP003,Rahul Verma,rahul@company.com,Finance,Analyst,employee,MGR002
+EMP004,Sneha Reddy,sneha@company.com,HR,HR Executive,employee,MGR003
+EMP005,Arjun Kumar,arjun@company.com,IT,Developer,employee,MGR001
+EMP006,Priya Singh,priya@company.com,Finance,Analyst,employee,MGR002
+EMP007,Vikram Rao,vikram@company.com,IT,Developer,employee,MGR001
+EMP008,Ananya Das,ananya@company.com,HR,Recruiter,employee,MGR003
+EMP009,Karan Mehta,karan@company.com,Operations,Coordinator,employee,MGR004
+EMP010,Meera Iyer,meera@company.com,IT,Developer,employee,MGR001
+EMP011,Rohan Nair,rohan@company.com,Finance,Analyst,employee,MGR002
+EMP012,Ishita Jain,ishita@company.com,IT,Developer,employee,MGR001
+EMP013,Aditya Roy,aditya@company.com,Operations,Executive,employee,MGR004
+EMP014,Kavya Menon,kavya@company.com,HR,HR Executive,employee,MGR003
+EMP015,Yash Gupta,yash@company.com,IT,Developer,employee,MGR001
+EMP016,Neha Kapoor,neha@company.com,Finance,Analyst,employee,MGR002
+EMP017,Siddharth Rao,sid@company.com,IT,Developer,employee,MGR001
+EMP018,Ritika Shah,ritika@company.com,Operations,Coordinator,employee,MGR004
+EMP019,Manoj Pillai,manoj@company.com,IT,Developer,employee,MGR001
+EMP020,Simran Kaur,simran@company.com,HR,Recruiter,employee,MGR003
+MGR001,Akhil Varma,akhil@company.com,IT,Engineering Manager,manager,HR001
+MGR002,Harish Rao,harish@company.com,Finance,Finance Manager,manager,HR001
+MGR003,Priya Menon,priyam@company.com,HR,HR Manager,manager,HR001
+MGR004,Rakesh Singh,rakesh@company.com,Operations,Operations Manager,manager,HR001
+HR001,Ananya Sharma,ananya.hr@company.com,HR,HR Head,hr,ADMIN
